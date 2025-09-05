@@ -1,4 +1,4 @@
 # Workers
 Agnar 
 Bragi
-Bragi er lítill karl.
+Agnar er flottur gaur.
